@@ -275,7 +275,9 @@
 									"instanced",
 									"garden",
 									"rift",
-									"mineshaft"
+									"mineshaft",
+									"lotus_atoll",
+									"fishing_1"
 								],
 								"description": "The /locraw name of the panorama to use for displaying as a background"
 							}
