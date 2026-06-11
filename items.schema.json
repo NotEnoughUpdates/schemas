@@ -237,7 +237,43 @@
 							},
 							"combat_xp": {
 								"type": "integer",
-								"description": "The amount of combat experience dropped on death"
+								"description": "The amount of combat exp dropped on death"
+							},
+							"alchemy_xp": {
+								"type": "integer",
+								"description": "The amount of alchemy exp dropped on death"
+							},
+							"farming_xp": {
+								"type": "integer",
+								"description": "The amount of farming exp dropped on death"
+							},
+							"taming_xp": {
+								"type": "integer",
+								"description": "The amount of taming exp dropped on death"
+							},
+							"foraging_xp": {
+								"type": "integer",
+								"description": "The amount of foraging exp dropped on death"
+							},
+							"carpentry_xp": {
+								"type": "integer",
+								"description": "The amount of carpentry exp dropped on death"
+							},
+							"fishing_xp": {
+								"type": "integer",
+								"description": "The amount of fishing exp dropped on death"
+							},
+							"runecrafting_xp": {
+								"type": "integer",
+								"description": "The amount of runecrafting exp dropped on death"
+							},
+							"mining_xp": {
+								"type": "integer",
+								"description": "The amount of mining exp dropped on death"
+							},
+							"enchanting_xp": {
+								"type": "integer",
+								"description": "The amount of enchanting exp dropped on death"
 							},
 							"name": {
 								"type": "string",
