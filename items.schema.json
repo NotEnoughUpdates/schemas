@@ -313,7 +313,8 @@
 									"rift",
 									"mineshaft",
 									"lotus_atoll",
-									"fishing_1"
+									"fishing_1",
+									"foraging_3"
 								],
 								"description": "The /locraw name of the panorama to use for displaying as a background"
 							}
