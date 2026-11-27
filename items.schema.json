@@ -39,6 +39,10 @@
 				"supercraftable": {
 					"type": "boolean",
 					"description": "Shows that this recipe can be supercrafted, even if the item should not allow it."
+				},
+				"overrideRecipeId": {
+					"type": "string",
+					"description": "Set to override the recipe text used to view the recipe. (/viewrecipe [this])."
 				}
 			},
 			"required": [
